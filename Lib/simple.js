@@ -637,7 +637,7 @@ exports.smsg = (conn, m, hasParent) => {
     m.isGroup = m.chat.endsWith('@g.us')
     m.sender = m.fromMe ? conn.user.jid : m.participant ? m.participant : m.key.participant ? m.key.participant : m.chat
     m.mention = "@"+m.sender.split("@")[0]
-    m.clear = "\n".repeat(700) + "\n 2020 - 2021 *clear chat by Arifi Razzaq*"
+    m.clear = "\n".repeat(700) + "\n 2020 - 2022 *clear chat by Gilbert*"
     m._player = fs.readFileSync('./tmp/adventureDB/player.json')
 }
   if (m.message) {
