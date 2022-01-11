@@ -232,7 +232,7 @@ before: `*${me}*
 *› Kalender Java:* ${week} ${weton} ${date}
 
 *› Grup:*\n${package.linkgc.gc1}
-*› Github:*\nhttps://github.com/Arifirazzaq2001/RIXLE-BOT-V3`.trimStart(),
+*› Github:*\nhttps://github.com/GilbertGeraldo/Ricel`.trimStart(),
 type: "*#type*\n",
 after: "\n"
 }
@@ -335,7 +335,7 @@ conn.sendMessage(m.chat, {
 "displayName": `${conarray.length} kontak`,
 "contacts": conarray 
 }, 'contactsArrayMessage', { quoted: m })
-conn.sendMessage(m.chat, 'Ini nomer pembuat bot gak usah chat aneh aneh ya!',MessageType.text, { quoted: m} )
+conn.sendMessage(m.chat, 'Ini nomer pembuat bot gak usah chat aneh aneh ya NGENTOT!',MessageType.text, { quoted: m} )
 console.log(a)
 break;
 default:
