@@ -34,7 +34,7 @@ ${list}
 │ 
 └────
 
-@_Rizxyu`.trim()
+@Gilbert`.trim()
     await m.reply(caption)
 
 }
