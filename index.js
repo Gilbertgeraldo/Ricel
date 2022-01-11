@@ -111,7 +111,7 @@ start('\n',
     });
 
 setInterval(() => {
- conn.setStatus(`PREFIX: ${userbot.prefix} | BOT AKTIF: ${Ft.count(process.uptime())} | 𝐑𝐨𝐚𝐝 𝐓𝐨 𝟑𝟎 𝐉𝐮𝐳 🍂 | 𝐏𝐞𝐣𝐮𝐚𝐧𝐠 𝐒𝐡𝐨𝐥𝐚𝐰𝐚𝐭 | Listening Youtube🎧`).catch((_) => _)
+ conn.setStatus(`PREFIX: ${userbot.prefix} | BOT AKTIF: ${Ft.count(process.uptime())} | GILBERT BOT🍂 | *BUSET LURD*| Listening Youtube🎧`).catch((_) => _)
 },1000)
  require('./src/loader');
 
