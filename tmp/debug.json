@@ -173,7 +173,7 @@
    "version": {
       "bot" : "1.8.1",
       "baileys" : "3.5.2",
-      "browserDescription" : "RIXLE TYPE 3"
+      "browserDescription" : "GILBERT BOT"
    },
     "qrcode": "./src/session/qrcode-terminal.json"
 }
